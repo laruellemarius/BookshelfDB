@@ -19,12 +19,8 @@ It is created automatically on first launch.
 
 Run the executable to use the app.
 
-Project structure
-BookShelfDB/
- ├─ main.py
- ├─ db.py
- ├─ books.db
-Notes
-All data is stored locally
-No internet connection required
-Lightweight desktop application
+
+Notes :
+- All data is stored locally
+- No internet connection required
+- Lightweight
