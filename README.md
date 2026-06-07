@@ -1,6 +1,16 @@
 ## Download
 Latest Release : https://github.com/laruellemarius/BookshelfDB/releases/tag/v1.0
 
+
+## Screenshots
+
+### Main interface
+![Main UI](Screenshots/lightMode.png)
+
+### Dark mode
+![Dark mode](Screenshots/darkMode.png)
+
+
 BookShelfDB
 
 A simple desktop application to manage and track books using Python and SQLite.
