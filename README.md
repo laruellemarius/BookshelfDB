@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshots/icon.png" width="40" style="vertical-align:middle">
+  <span style="font-size:32px; font-weight:bold;">BookShelfDB</span>
+</p>
 ## BookShelfDB
 
 A simple desktop application to manage and track books using Python and SQLite.
