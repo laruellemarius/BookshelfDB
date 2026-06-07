@@ -2,10 +2,12 @@
 
 A simple desktop application to manage and track books using Python and SQLite.
 
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10+-blue">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen">
+  <img src="https://img.shields.io/badge/platform-windows-lightgrey">
+</p>
 
 ## Download
 Latest Release : https://github.com/laruellemarius/BookshelfDB/releases/tag/v1.0
