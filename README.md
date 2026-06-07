@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/icon.png" width="40" style="vertical-align:middle">
+  <img src="BookShelfDB/Screenshots/bookshelf.ico" width="40" style="vertical-align:middle">
   <span style="font-size:32px; font-weight:bold;">BookShelfDB</span>
 </p>
 ## BookShelfDB
