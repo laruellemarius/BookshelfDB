@@ -1,4 +1,4 @@
-#### BookShelfDB
+## BookShelfDB
 
 A simple desktop application to manage and track books using Python and SQLite.
 
