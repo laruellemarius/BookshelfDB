@@ -1,6 +1,6 @@
 <p align="center">
- ## <img src="BookShelfDB/bookshelf.ico" width="40" style="vertical-align:middle">
-  <span style="font-size:32px; font-weight:bold;">BookShelfDB</span>
+  <img src="BookShelfDB/bookshelf.ico" width="50" style="vertical-align:middle">
+  <h1 align="center">BookShelfDB</h1>
 </p>
 
 
