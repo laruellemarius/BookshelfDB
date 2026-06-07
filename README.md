@@ -1,3 +1,9 @@
+#### BookShelfDB
+
+A simple desktop application to manage and track books using Python and SQLite.
+
+
+
 ## Download
 Latest Release : https://github.com/laruellemarius/BookshelfDB/releases/tag/v1.0
 
