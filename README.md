@@ -5,10 +5,10 @@ Latest Release : https://github.com/laruellemarius/BookshelfDB/releases/tag/v1.0
 ## Screenshots
 
 ### Main interface
-![Main UI](Screenshots/lightMode.png)
+![Main UI](BookShelfDB/Screenshots/lightMode.png)
 
 ### Dark mode
-![Dark mode](Screenshots/darkMode.png)
+![Dark mode](BookShelfDB/Screenshots/darkMode.png)
 
 
 BookShelfDB
